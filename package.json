@@ -1,0 +1,22 @@
+{
+  "name": "w2d1a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bragamat/w2d1A.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bragamat/w2d1A/issues"
+  },
+  "homepage": "https://github.com/bragamat/w2d1A#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
